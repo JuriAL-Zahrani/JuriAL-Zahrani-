@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I am deeply passionate about software development,
 - 💻 **Interests:** Software Engineering, AI, and Problem Solving.
 - 🌱 **Currently exploring:** Advanced software development and expanding my technical portfolio.
 - 🎯 **Goal:** Building clean, efficient, and impactful applications.
-
+### 🌐 My Featured Projects
+* **Bahia Project:** [Visit Bahia Website](https://bahia2025.blogspot.com/) - A web platform for publishing and digital content.
 ---
 
 ### 📫 Connect with Me
